@@ -9,10 +9,10 @@
 // it from being updated in the future.
 
 
-package org.usfirst.frc5571.WestCoastTest.subsystems;
+package org.usfirst.frc5571.StrongHoldRobot.subsystems;
 
-import org.usfirst.frc5571.WestCoastTest.RobotMap;
-import org.usfirst.frc5571.WestCoastTest.commands.*;
+import org.usfirst.frc5571.StrongHoldRobot.RobotMap;
+import org.usfirst.frc5571.StrongHoldRobot.commands.*;
 
 import edu.wpi.first.wpilibj.CANTalon;
 import edu.wpi.first.wpilibj.RobotDrive;

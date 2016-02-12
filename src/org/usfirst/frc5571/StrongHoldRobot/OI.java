@@ -9,12 +9,13 @@
 // it from being updated in the future.
 
 
-package org.usfirst.frc5571.WestCoastTest;
+package org.usfirst.frc5571.StrongHoldRobot;
 
-import org.usfirst.frc5571.WestCoastTest.commands.*;
+import org.usfirst.frc5571.StrongHoldRobot.commands.*;
+import org.usfirst.frc5571.StrongHoldRobot.subsystems.*;
+
 import edu.wpi.first.wpilibj.smartdashboard.SmartDashboard;
 import edu.wpi.first.wpilibj.Joystick;
-import org.usfirst.frc5571.WestCoastTest.subsystems.*;
 
 
 /**

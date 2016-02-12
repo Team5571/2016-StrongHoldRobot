@@ -9,14 +9,15 @@
 // it from being updated in the future.
 
 
-package org.usfirst.frc5571.WestCoastTest;
+package org.usfirst.frc5571.StrongHoldRobot;
 
 import edu.wpi.first.wpilibj.IterativeRobot;
 import edu.wpi.first.wpilibj.command.Command;
 import edu.wpi.first.wpilibj.command.Scheduler;
 import edu.wpi.first.wpilibj.livewindow.LiveWindow;
-import org.usfirst.frc5571.WestCoastTest.commands.*;
-import org.usfirst.frc5571.WestCoastTest.subsystems.*;
+
+import org.usfirst.frc5571.StrongHoldRobot.commands.*;
+import org.usfirst.frc5571.StrongHoldRobot.subsystems.*;
 
 /**
  * The VM is configured to automatically run this class, and to call the
